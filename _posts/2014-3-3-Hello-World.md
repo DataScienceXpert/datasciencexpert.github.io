@@ -1,10 +1,13 @@
 ---
 layout: post
-title: You're up and running!
+title: TALHA HUSSAIN
 ---
+<span style="color: #f2bf4b; font-family: Babas; font-size: 4em;">Endeavour to Merge Aviation and Data Science</span>
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Hello everyone!!!
+This is Talha Hussain. Basically i am an Aerospace Engineer with 09 years of experience. Besides core Engineering exposure i have been actively involved in implementation of Lockheed Martin system (Automated Logistics Management System)
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+(http://www.kdnuggets.com/wp-content/uploads/blogs_kdnuggets.jpg)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+(https://www.youtube.com/watch?v=20UWwnfP5pA)
+
