@@ -1,7 +1,7 @@
 
 <span style="color: #f2bf4b; font-family: Babas; font-size: 3em;">Endeavour to Merge Aviation and Data Science</span>
 
-![alt text](http://www.kdnuggets.com/wp-content/uploads/blogs_kdnuggets.jpg) "Logo Title Text 1")
+![alt text](http://www.kdnuggets.com/wp-content/uploads/blogs_kdnuggets.jpg)
 
 Hello everyone!!!
 This is Talha Hussain. Basically i am an Aerospace Engineer with 09 years of experience. Besides core Engineering exposure i have been actively involved in implementation of Lockheed Martin system (Automated Logistics Management System)
